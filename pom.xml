@@ -2,12 +2,12 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.HW</groupId>
-  <artifactId>HW</artifactId>
+  <groupId>com.flipkart</groupId>
+  <artifactId>flipkart</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
-  <name>HW Maven Webapp</name>
+  <name>flipkart Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
@@ -20,7 +20,7 @@
   </dependencies>
 
   <build>
-    <finalName>HW</finalName>
+    <finalName>flipkart</finalName>
   </build>
 
 </project>
